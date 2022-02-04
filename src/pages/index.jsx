@@ -20,7 +20,7 @@ function Index(){
 
 
                 <BloqueNormalB
-                title='Skills' text= 'CSS, Javascript, HTML, python, tensorflow, keras, java SE, EE.'
+                title='Skills' text= 'CSS, Javascript, HTML, Python, Tensorflow, Keras, Java SE, EE.'
                 />
             
                 <BloqueNormal
@@ -28,7 +28,7 @@ function Index(){
                 />
 
                 <BloqueNormalB
-                title= 'Idioms' text='Spanish: Native English: A2 '
+                title= 'Languages' text='Spanish: Native English: A2 '
                 />
 
              <div className='bottom-0'><Footer/></div> 

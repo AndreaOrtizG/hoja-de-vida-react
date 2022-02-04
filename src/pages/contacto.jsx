@@ -10,7 +10,7 @@ const Contacto = ()=> {
         <PublicLayout >
         
             <BloqueNormal 
-            title='Direction' text= 'Dosquebradas, Risaralda'
+            title='Address' text= 'Dosquebradas, Risaralda'
             />
         
 
