@@ -1,0 +1,27 @@
+
+.LinkNavegacion{
+    @apply text-white mx-2 cursor-pointer hover:text-blue-300 font-serif font-medium text-lg;
+
+}
+.EstiloTitulos{
+    @apply text-center font-serif font-medium align-middle border-b-2 border-b-indigo-600 my-5 ;
+}
+
+.EstiloTitulosB{
+    @apply text-white text-center font-serif font-medium align-middle border-b-2 border-b-white my-2;
+}
+.EstiloTexto{
+    @apply  text-center font-serif font-light align-middle mx-5 my-2 md:mx-40 lg:mx-40 ;
+}
+
+.EstiloTextoB{
+    @apply  text-white text-center font-serif font-light align-middle mx-5 my-2  md:mx-40 lg:mx-40;
+}
+
+.footer {
+    
+    position:relative;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
