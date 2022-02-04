@@ -27,7 +27,7 @@ const Perfil = ()=> {
         />
         
         <BloqueInfo
-        title='Experience' subtitle= 'Monitor' date='2018-Actual' text='Lógica y Representación III' items='Universidad de Antioquia'
+        title='Experience' subtitle= 'Monitor' date='2018-Actual' text='Logic and Representation III' items='Universidad de Antoquia'
         />
     
         

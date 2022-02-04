@@ -9,8 +9,8 @@ const Navbar =() =>{
         <nav className= 'flex items-center bg-indigo-600'>
                 <img className= 'mx-4 h-16 rounded-tl-full my-1.5' src= {ImagenPrincipal}  />
                 <ul className= 'flex'>
-                    <li className= 'LinkNavegacion'><Link to = '/'> Perfil </Link></li>
-                    <li className= 'LinkNavegacion' ><Link to = '/contacto'> Contacto </Link></li>
+                    <li className= 'LinkNavegacion'><Link to = '/'> Profile </Link></li>
+                    <li className= 'LinkNavegacion' ><Link to = '/contacto'> Contact </Link></li>
                     <li className= 'LinkNavegacion' ><Link to = '/perfil'>  Info </Link></li>
                 </ul>
 
